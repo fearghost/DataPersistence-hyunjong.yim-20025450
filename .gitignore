@@ -19,3 +19,9 @@ Release/
 
 # Test data (generated at runtime)
 test_data/
+
+# Reference documents
+*.pdf
+
+# MCP config (contains tokens)
+.mcp.json

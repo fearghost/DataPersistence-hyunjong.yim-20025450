@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="PoC_DataPersistence.vcxproj" />
+  <Project Path="PoC_DataPersistenceApp.vcxproj" />
 </Solution>
